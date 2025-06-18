@@ -1,5 +1,7 @@
 How to Login to Peacock TV: A Step-by-Step Guide      //index.rst
 ============================================
+.
+.
 
 .. toctree::
    :maxdepth: 2
@@ -7,7 +9,7 @@ How to Login to Peacock TV: A Step-by-Step Guide      //index.rst
 
 .. image:: login.png
    :alt: My Project Logo
-   :width: 200px
+   :width: 500px
    :align: center
    :target: https://aclogportal.com/iolosystemmechanic-login-account
 
